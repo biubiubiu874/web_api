@@ -1,0 +1,3 @@
+logger:
+  name: log
+  file: C:\Users\41497\Desktop\面试\0207测试框架搭建\test\report\log.txt
